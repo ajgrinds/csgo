@@ -5,4 +5,4 @@ Add +exec autoexec.cfg to launch options
 
 
 My current launch options
-`+exec autoexec.cfg -novid -console -high -fullscreen`
+`+exec autoexec.cfg -novid -high -fullscreen -tickrate 128 -lv`
